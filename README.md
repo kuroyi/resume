@@ -1,6 +1,6 @@
 ## Resume
 
-[My resume](https://github.com/kuroyi/Awesome-CV/releases/download/latest/rick-haines.pdf) created using the Awesome-CV template and automated with Awesome-CV-action.
+[My resume](https://github.com/kuroyi/resume/releases/download/latest/rick-haines.pdf) created using the Awesome-CV template and automated with Awesome-CV-action.
 
 ## Credit
 

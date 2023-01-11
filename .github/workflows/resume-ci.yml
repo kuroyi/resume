@@ -3,7 +3,7 @@ name: Resume-CI
 on: [push]
 
 jobs:
-  build-job:
+  create-pdf:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
