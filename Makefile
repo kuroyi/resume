@@ -1,6 +1,6 @@
 XELATEX=docker run --rm -v $(PWD):/doc/ -w /doc -it thomasweise/docker-texlive-full xelatex
 
-rick-haines.pdf: rick-haines.tex
+rick-haines.pdf: rick-haines.tex sections/*.tex
 	$(XELATEX) $<
 
 clean:
